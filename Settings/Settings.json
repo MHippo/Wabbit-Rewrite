@@ -1,6 +1,0 @@
-{
-    "User"{
-        "Username": "",
-        "Prompt": "[{user}@{device}]: "
-    }
-}
